@@ -1,0 +1,15 @@
+Hungry
+Thirsty
+Tired
+Happy
+Sad
+Sick
+Angry
+Sleepy
+Busy
+Late
+Early
+Strong
+Weak
+Cold
+Hot
