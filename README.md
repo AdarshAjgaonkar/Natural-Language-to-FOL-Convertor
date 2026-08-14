@@ -349,21 +349,3 @@ Yes, it studies.
     Programs with Common Sense,
     1959.
 ```
-
----
-
-## 👨‍💻 Author
-
-**Adarsh Ajgaonkar**
-B.E. Computer Engineering
-Xavier Institute of Engineering, Mumbai
-
----
-
-## 📜 License
-
-This project is developed for **academic and educational purposes** as part of an Artificial Intelligence mini-project.
-
----
-
-⭐ If you found this project useful, consider giving it a star on GitHub!
